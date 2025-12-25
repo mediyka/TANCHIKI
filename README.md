@@ -5,7 +5,7 @@
 ![0b53580e-0ed6-4fc5-b256-22799e076738](https://github.com/user-attachments/assets/e50d20ba-8753-4499-9fa4-3ea7b8e84f32)
 
 
-4.Вам будет предложена загрузить два AI файла для красного и синего танка в программной среде<img width="626" height="201" alt="image" src="https://github.com/user-attachments/assets/c77df51d-7432-4c95-9e91-df7bf334ed03" />
+4.Вам будет предложено загрузить два AI файла для красного и синего танка в программной среде<img width="626" height="201" alt="image" src="https://github.com/user-attachments/assets/c77df51d-7432-4c95-9e91-df7bf334ed03" />
 
 5.После загрузки всех AI файлов можете нажать зелёную кнопку "ЗАПУСТИТЬ БОЙ AI vs AI" для начала выполнения программы"
 
